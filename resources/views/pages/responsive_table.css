@@ -1,0 +1,25 @@
+@media screen and (max-width: 767px) {
+    .table-responsivess {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ddd;
+    }
+    .table_res {
+        width: 900px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .table-responsivess {
+        width: 100% !important;
+        margin-bottom: 15px !important;
+        overflow-y: hidden !important;
+        -ms-overflow-style: -ms-autohiding-scrollbar !important;
+        border: 1px solid #ddd !important;
+    }
+    .table_res {
+        width: 900px !important;
+    }
+}
